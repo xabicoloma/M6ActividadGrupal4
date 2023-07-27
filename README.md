@@ -3,4 +3,4 @@ Actividad Grupal 3 Modulo 6
   
   #guia_model_forms corresponde a la guia solicitada en la guia para levantar un formulario desde Django
 con Forms y Models.  
-  # respuesta_ejercicio4 corresponde a la respuesta para Identifiquen claramente las diferencias entre los métodos GET y POST.
+  #respuesta_ejercicio4 corresponde a la respuesta para Identifiquen claramente las diferencias entre los métodos GET y POST.
